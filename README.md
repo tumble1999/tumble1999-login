@@ -1,4 +1,4 @@
-# NOTICE: This is not mine, i had this on heroku for a while and i wanted to see how it worked. According to [app.json] the original source is [here](https://github.com/prose/gatekeeper).
+# NOTICE: This is not mine, I had this on heroku for a while and i wanted to see how it worked. According to [./app.json] the original source is [here](https://github.com/prose/gatekeeper).
 
 
 Gatekeeper
