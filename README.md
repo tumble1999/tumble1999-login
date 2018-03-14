@@ -1,4 +1,6 @@
-# NOTICE: This is not mine, I had this on heroku for a while and i wanted to see how it worked. According to [app.json](./app.json) the original source is [here](https://github.com/prose/gatekeeper).
+<aside class="notice">
+NOTICE: This is not mine, I had this on heroku for a while and i wanted to see how it worked. According to [app.json](./app.json) the original source is [here](https://github.com/prose/gatekeeper).
+</aside>
 
 
 Gatekeeper
